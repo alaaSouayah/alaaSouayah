@@ -77,7 +77,7 @@ I'm a **full‑stack developer** focused on building complete end‑to‑end sol
 
 ---
 
-### E‑commerce Web Application – Internship (Hemila)  
+### E‑commerce Web Application –  
 **Technologies:** Angular • REST API • JSON • EmailJS • QR Codes  
 
 - Developed a complete **e‑commerce web application** in Angular consuming a REST API.  
@@ -87,7 +87,7 @@ I'm a **full‑stack developer** focused on building complete end‑to‑end sol
 
 ---
 
-### Leave Management Application – Internship (Transtu)  
+### Leave Management Application –  
 **Technologies:** Laravel • PHP • MySQL • XAMPP • REST API  
 
 - Designed and developed a **leave management system** for employees and managers.  
@@ -193,4 +193,5 @@ I'm a **full‑stack developer** focused on building complete end‑to‑end sol
 - 💼 Portfolio: *[protfolio](http://alaeddine.pages.dev/)*  
 - 📧 Email: *aladinesouayah383@gmail.com*  
 - 🔗 LinkedIn / [linkedIn](https://www.linkedin.com/in/ala-eddine-souayah-609129344/)*  
+
 
