@@ -58,7 +58,7 @@ I'm a **full‑stack developer** focused on building complete end‑to‑end sol
 ### Connected Car Management Platform – Web & Mobile  
 **Technologies:** Angular • Firebase (Auth, Firestore, Storage) • Java / MVVM • Mapbox  
 
-- Built a full connected‑car management platform as a final‑year project at **Smart Way Innovation**.  
+- Built a full connected‑car management platform .  
 - Developed a web dashboard in Angular + Firebase for administrators and drivers (car registration, driver management, permissions, notifications).  
 - Implemented backend services for authentication, user/car management, security rules and real‑time vehicle tracking using MVC/MVVM patterns.  
 - Integrated **facial recognition**, **fingerprint authentication** and **drowsiness detection** to secure access and increase driver safety.  
@@ -193,3 +193,4 @@ I'm a **full‑stack developer** focused on building complete end‑to‑end sol
 - 💼 Portfolio: *[protfolio](http://alaeddine.pages.dev/)*  
 - 📧 Email: *aladinesouayah383@gmail.com*  
 - 🔗 LinkedIn / [linkedIn](https://www.linkedin.com/in/ala-eddine-souayah-609129344/)*  
+
